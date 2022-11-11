@@ -1,5 +1,5 @@
 # iPhone Calculator
-Functional Calculator with Real Time Clock using HTML, CSS, and Vanilla JavaScript!
+Created a Functional Calculator with Real Time Clock using HTML, CSS, and Vanilla JavaScript!
 <br/>
 <br/>
 HTML Link to Calculator: http://127.0.0.1:5500/iPhone%20Calculator/index.html
